@@ -4,7 +4,7 @@
 - 👋 Hi, I’m @BabarDeveloper My Real Name Is Babar Ali
 - 👀 I’m Interested In Cloud, DevOps And Advanced Problem Solving
 - 🌱 I’m Currently Learning Advance Frontend & Backend Enginnering 
-- 💞️ I’m Looking To Collaborate On Backend Projects 
+- 💞️ I’m Looking To Collaborate On Frontend & Backend Projects 
 - 📫 How To reach Me... Via Linkedin : https://www.linkedin.com/in/babar-ali2/
 
 <!--
