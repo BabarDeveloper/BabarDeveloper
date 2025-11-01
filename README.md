@@ -1,5 +1,6 @@
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" width="500">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" width="800">
+<br><br>
 
 - 👋 Hi, I’m @BabarDeveloper My Real Name Is Babar Ali
 - 👀 I’m Interested In Cloud, DevOps And Advanced Problem Solving
